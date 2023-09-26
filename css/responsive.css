@@ -1,0 +1,129 @@
+@media(min-width:320px) and (max-width:766px){
+	.container{
+		width:100%;
+	}
+	.bg_image{
+		display:none;
+	}
+	/* .row{ */
+	/* display:flex; */
+    /* flex-direction: column; */
+	/* } */
+	
+.form_content p{
+	width:75%;
+}
+/* .form_email, .form_password{ */
+	/* margin:0px; */
+	/* padding:0; */
+/* } */
+.mail_icon{
+	font-size:19px;
+}
+.pass_icon{
+	font-size:19px;
+}
+/* #mail{ */
+	/* font-size:13px; */
+/* } */
+/* #password{ */
+	/* font-size:13px; */
+/* } */
+/* form input{ */
+	/* width:55%; */
+/* } */
+/* .button{ */
+	/* width:55%; */
+	/* padding:10px; */
+/* } */
+/* .form_link{ */
+	/* padding-top:0px; */
+/* } */
+	
+.col-1-fm{
+	width:8.33%;
+	padding:0 15px;
+}
+.col-2-fm{
+	width:16.66%;
+	padding:0 15px;
+}.col-3-fm{
+	width:100%;
+}.col-4-fm{
+	width:33.33%;
+	padding:0 15px;
+}.col-5-fm{
+	width:41.66%;
+	padding:0 15px;
+}.col-6-fm{
+	width:100%;
+}.col-7-fm{
+	width:58.33%;
+	padding:0 15px;
+}.col-8-fm{
+	width:66.66%;
+	padding:0 15px;
+}.col-9-fm{
+	width:75%;
+	padding:0 15px;
+}.col-10-fm{
+	width:83.33%;
+	padding:0 15px;
+}.col-11-fm{
+	width:91.66%;
+	padding:0 15px;
+}.col-12-fm{
+	width:100%;
+	padding:0 15px;
+}
+}
+/*for ipad */
+@media(min-width:768px)and (max-width:999px){
+	.container{
+		width:100%;
+	}
+.form_content p{
+	width:75%;
+	padding:20px;
+}
+.form_content{
+	padding:10px;
+}
+.col-1-fi{
+	width:8.33%;
+	padding:0 15px;
+}
+.col-2-fi{
+	width:16.66%;
+	padding:0 15px;
+}.col-3-fi{
+	width:20%;
+}.col-4-fi{
+	width:33.33%;
+	padding:0 15px;
+}.col-5-fi{
+	width:41.66%;
+	padding:0 15px;
+}.col-6-fi{
+	width:49%;
+}.col-7-fi{
+	width:58.33%;
+	padding:0 15px;
+}.col-8-fi{
+	width:66.66%;
+	padding:0 15px;
+}.col-9-fi{
+	width:75%;
+	padding:0 15px;
+}.col-10-fi{
+	width:83.33%;
+	padding:0 15px;
+}.col-11-fi{
+	width:91.66%;
+	padding:0 15px;
+}.col-12-fi{
+	width:100%;
+	padding:0 15px;
+}
+}
+
